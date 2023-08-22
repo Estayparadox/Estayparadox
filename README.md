@@ -13,6 +13,11 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML   4 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 If you like what i do, maybe consider buying me a coffee. 🥺👉👈
