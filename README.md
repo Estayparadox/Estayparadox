@@ -1,5 +1,14 @@
 ### Hi! I'm Joseph 👋
 
+<p align="left">
+  <a href="https://github.com/estayparadox/estayparadox">
+    <img src="https://komarev.com/ghpvc/?username=estayparadox" alt="page views" />
+  </a>
+  <a href="https://github.com/estayparadox?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/estayparadox?color=green&logo=github">
+  </a>
+</p>
+
 | <a href="https://github.com/estayparadox/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estayparadox&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estayparadox's github stats" /></a> | <a href="https://github.com/estayparadox/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estayparadox&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
