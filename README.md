@@ -21,6 +21,12 @@
   </a>
 </p>
 
+- 🔭 I’m currently working at [Wooclap](https://wooclap.com) in the Growth Engineering Team
+- 🌱 I’m currently learning more about CI/CD Practices
+- 💬 Ask me about **React, Git, Graphql, C, C++**
+- 📫 How to reach me: [@pereni_j](https://twitter.com/pereni_j) on Twitter
+
+
 | <a href="https://github.com/estayparadox/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estayparadox&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estayparadox's github stats" /></a> | <a href="https://github.com/estayparadox/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estayparadox&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
