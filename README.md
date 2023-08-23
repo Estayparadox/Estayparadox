@@ -10,6 +10,9 @@
   <a href="https://www.twitter.com/pereni_j">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=20>
   </a>
+  <a href="https://www.linkedin.com/in/growth-engineer-france-joseph-pereniguez">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
+  </a>
   <a href="https://www.instagram.com/joseph_pereniguez/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20>
   </a>
@@ -20,6 +23,8 @@
 
 | <a href="https://github.com/estayparadox/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estayparadox&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estayparadox's github stats" /></a> | <a href="https://github.com/estayparadox/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estayparadox&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
 
