@@ -22,7 +22,7 @@
 </p>
 
 - 🔭 I’m currently working at [Wooclap](https://wooclap.com) in the Growth Engineering Team
-- 🌱 I’m currently learning more about CI/CD Practices
+- 🌱 I’m currently learning more about Next.Js
 - 💬 Ask me about **React, Git, Graphql, C, C++**
 - 📫 How to reach me: [@pereni_j](https://twitter.com/pereni_j) on Twitter
 
